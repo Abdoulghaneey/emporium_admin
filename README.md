@@ -1,4 +1,3 @@
-# emporium_admin
 # Project Contents
 
 ## .idea
